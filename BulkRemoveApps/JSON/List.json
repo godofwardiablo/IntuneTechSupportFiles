@@ -1,37 +1,10 @@
 {
-	"LastUpdate": "2023-09-27 15:35:50Z",
-	"Application": [{
-		"Name": "7-Zip *",
-		"Version": "*",
-		"Type": "programs",
-		"SilentArg": "/S"
-	},{
-		"Name": "7-Zip ??.??",
+	"LastUpdate": "2024-12-09 09:0:00Z",
+	"Application": [
+	{
+		"Name": "Adobe Acrobat *",
 		"Version": "*",
 		"Type": "msi"
-	},{
-		"Name": "Adobe Creative Cloud",
-		"Version": "*",
-		"Type": "programs",
-		"SilentArg": "-u"
-	},{
-		"Name": "Amazon WorkSpaces",
-		"Version": "*",
-		"Type": "msi"
-	},{
-		"Name": "Microsoft Azure CLI (32-bit)",
-		"Version": "*",
-		"Type": "msi"
-	},{
-		"Name": "WebAdvisor by McAfee",
-		"Version": "*",
-		"Type": "programs",
-		"SilentArg": "/s"
-	},{
-		"Name": "McAfee",
-		"Version": "*",
-		"Type": "programs",
-		"SilentArg": "/uninstall /s"
 	}
 ]
 }
